@@ -24,7 +24,7 @@ _**Bachelor of Science Candidate**_
 ## Recent Project
 #### [Choosing Classical Guitar Strings](https://chloeehaynes.github.io/ClassicalGuitarStrings/)
 
-For my final research project in my Technical Writing class (Fall 2021), I developed a website that can help users of any skill level choose strings for their classical guitar. Over the seemester, I gathered the research, wrote and edited the guide, and developed the code for the final site. The site can be visited [here](https://chloeehaynes.github.io/ClassicalGuitarStrings/), and the repo can be found [here](https://github.com/chloeehaynes/ClassicalGuitarStrings).
+For my final research project in my Technical Writing class (Fall 2021), I developed a website that can help users of any skill level choose strings for their classical guitar. Over the semester, I gathered the research, wrote and edited the guide, and developed the code for the final site using HTML, CSS, and JavaScript. The site can be visited [here](https://chloeehaynes.github.io/ClassicalGuitarStrings/), and the repo can be found [here](https://github.com/chloeehaynes/ClassicalGuitarStrings).
 
 <!---
 chloeehaynes/chloeehaynes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
