@@ -1,10 +1,12 @@
 # Chloe Haynes
-### Contact
+### Links
 - 📬 [Email](mailto:cehaynes@wustl.edu)
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chloe-haynes-0107371b3/)
 
 - 💻 [GitHub](https://github.com/chloeehaynes)
+
+- 📄 [Writing Portfolio](https://github.com/chloeehaynes/writing)
 
 
 
