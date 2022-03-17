@@ -11,7 +11,7 @@
 
 
 ### Skills
-- C++ • CSS • HTML • Java • JavaScript • Python • R • Swift • Web Design •
+- C++ • CSS • HTML • Java • JavaScript • PHP • Python • R • SQL • Swift • Web Design •
 
 
 ### Education
